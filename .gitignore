@@ -70,3 +70,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity Shit I don't care about
+*.log
+*.pdf
+/Temp
+/Library
+/Assets/AlstraInfinite
+/Assets/BERCESTSTUDIO/Scenes
+/Assets/BERCESTSTUDIO/Models/Weapons
+/Assets/BERCESTSTUDIO/Models/Props
+/Assets/Scenes/SampleScene
+/Assets/StylizedWater2/_Demo
